@@ -1,5 +1,9 @@
 Sobre o Projeto:
 
+Visão Geral
+
+Este projeto utiliza a biblioteca LlamaIndex para criar agentes de IA capazes de responder a consultas e realizar buscas em diversas fontes de informação, incluindo APIs externas, documentos armazenados e ferramentas de pesquisa. O foco principal é a automação do cálculo do imposto de renda e a recuperação de informações de artigos acadêmicos e buscas na web.
+
 A função do projeto é fazer uso do llamaindex
 
 - Construção de função, que foi convertida para ferramenta e usada pelo agent.
